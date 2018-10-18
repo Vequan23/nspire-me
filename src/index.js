@@ -1,7 +1,7 @@
-import quotes from "./quotes.json";
-import uniqueRandomArray from "unique-random-array";
+var quotes = require("./quotes.json");
+var uniqueRandomArray = require("unique-random-array");
 
-export default {
+modules.exports = {
     all: quotes,
     random: uniqueRandomArray(quotes)
 };
