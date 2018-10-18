@@ -1,27 +1,27 @@
 {
-  "name": "nspire-me",
-  "version": "1.0.0",
-  "description": "Get a inspirational quote",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Vequan23/nspire-me.git"
-  },
-  "keywords": [
-    "random",
-    "inspire",
-    "inspirational"
-  ],
-  "author": "Vequan Clark <vequanclark@yahoo.com> (https://vequan23.github.io/clarks-tech)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Vequan23/nspire-me/issues"
-  },
-  "homepage": "https://github.com/Vequan23/nspire-me#readme",
-  "dependencies": {
-    "unique-random-array": "1.0.1"
-  }
+    "name": "nspire-me",
+    "version": "1.0.1",
+    "description": "Get a inspirational quote",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Vequan23/nspire-me.git"
+    },
+    "keywords": [
+        "random",
+        "inspire",
+        "inspirational"
+    ],
+    "author": "Vequan Clark <vequanclark@yahoo.com> (https://vequan23.github.io/clarks-tech)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Vequan23/nspire-me/issues"
+    },
+    "homepage": "https://github.com/Vequan23/nspire-me#readme",
+    "dependencies": {
+        "unique-random-array": "1.0.1"
+    }
 }
